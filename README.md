@@ -146,5 +146,3 @@ A comprehensive full-stack Learning Management System built with modern web tech
   ```bash
   yarn test
   ```
-
-For more detailed information, refer to the documentation or contact the project maintainers.
